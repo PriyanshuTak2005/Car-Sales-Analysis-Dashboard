@@ -1,30 +1,33 @@
-🚗 Car Sales Analysis Dashboard
-This repository contains a Car Sales Analysis Dashboard designed to visualize insights about automotive company performance, dealer regions, and annual income using business intelligence tools.
+# 🚗 Car Sales Analysis Dashboard
 
-📊 Key Features
-Annual Income by Car Company
+This repository contains a **Car Sales Analysis Dashboard** designed to visualize insights about automotive company performance, dealer regions, and annual income using business intelligence tools.
 
-Income Breakdown by Dealer Region
+## 📊 Key Features
 
-Dealer Distribution Analysis
+* **Annual Income by Car Company**
+* **Income Breakdown by Dealer Region**
+* **Dealer Distribution Analysis**
+* **Combined View of Income & Record Count**
+* Interactive data filtering and visual summaries
 
-Combined View of Income & Record Count
 
-Interactive data filtering and visual summaries
+## 🛠 Tools Used
 
-🛠 Tools Used
-Looker Studio
+* Looker Studio *(based on your actual tool used)*
 
-📌 Use Cases
-Executive overview of car sales and income performance
+## 📌 Use Cases
 
-Regional performance benchmarking
+* Executive overview of car sales and income performance
+* Regional performance benchmarking
+* Dealer-specific income analysis
+* Automotive business strategy planning
 
-Dealer-specific income analysis
 
-Automotive business strategy planning
+## 🙋‍♂️ Author
 
-🙋‍♂️ Author
-Name: Priyanshu Tak
-Email: Priyanshutak2005@gmail.com
-LinkedIn: https://www.linkedin.com/in/priyanshu-tak/
+**Name:** Priyanshu Tak
+
+**Email:** Priyanshutak@2005gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/priyanshu-tak/
+
